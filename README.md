@@ -2,11 +2,12 @@
 - 👀 I’m interested in software development, frontend and testing...
 - 🌱 I’m currently learning c ...
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=NahuelSilva28&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="github">
+<img align='right
+' src="https://github-readme-stats.vercel.app/api?username=NahuelSilva28&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="github">
 
 
 <p align="
-below">
+left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
