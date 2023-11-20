@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning c ...
 
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
