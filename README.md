@@ -5,7 +5,7 @@
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=NahuelSilva28&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="github">
 
 
-<p align="left">
+<p align="center">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
